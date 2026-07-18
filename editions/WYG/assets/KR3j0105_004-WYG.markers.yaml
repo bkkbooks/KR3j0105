@@ -222,9 +222,11 @@ markers:
       ', id: KR3j0105_WYG_004-bkkkrnewl52}
   - {type: line-break, offset: 871, content: '', id: KR3j0105_WYG_004-3b08}
   - {type: punctuation, offset: 880, content: (, id: KR3j0105_WYG_004-bkkpn1}
+  - {type: voice, offset: 880, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 881, content: /, id: KR3j0105_WYG_004-bkkpn2}
   - {type: punctuation, offset: 881, content: ), id: KR3j0105_WYG_004-bkkpn3}
   - {type: punctuation, offset: 884, content: (, id: KR3j0105_WYG_004-bkkpn4}
+  - {type: voice, offset: 884, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 885, content: /, id: KR3j0105_WYG_004-bkkpn5}
   - {type: punctuation, offset: 885, content: ), id: KR3j0105_WYG_004-bkkpn6}
   - {type: 'kr:newline', offset: 892, content: '
@@ -344,6 +346,7 @@ markers:
       ', id: KR3j0105_WYG_004-bkkkrnewl81}
   - {type: line-break, offset: 1359, content: '', id: KR3j0105_WYG_004-5b01}
   - {type: punctuation, offset: 1379, content: (, id: KR3j0105_WYG_004-bkkpn7}
+  - {type: voice, offset: 1379, length: 23, name: note, id: n3}
   - {type: punctuation, offset: 1380, content: /, id: KR3j0105_WYG_004-bkkpn8}
   - {type: punctuation, offset: 1381, content: ), id: KR3j0105_WYG_004-bkkpn9}
   - {type: 'kr:newline', offset: 1381, content: '
@@ -362,6 +365,7 @@ markers:
       ', id: KR3j0105_WYG_004-bkkkrnewl84}
   - {type: line-break, offset: 1433, content: '', id: KR3j0105_WYG_004-5b04}
   - {type: punctuation, offset: 1440, content: (, id: KR3j0105_WYG_004-bkkpn13}
+  - {type: voice, offset: 1440, length: 30, name: note, id: n4}
   - {type: punctuation, offset: 1454, content: /, id: KR3j0105_WYG_004-bkkpn14}
   - {type: punctuation, offset: 1468, content: ), id: KR3j0105_WYG_004-bkkpn15}
   - {type: 'kr:newline', offset: 1468, content: '
@@ -1216,4 +1220,4 @@ markers:
 
       ', id: KR3j0105_WYG_004-bkkkrnewl293}
   back: []
-hash: sha256:9d17e23efcd8d1b24cbe0deaec2b19dc2e248bf925569e2741d9f1529fa8664d
+hash: sha256:00f16f570b45ef0eee20bbbab7c37cefed85f324a441c5f1cb6345796d47ba5f
